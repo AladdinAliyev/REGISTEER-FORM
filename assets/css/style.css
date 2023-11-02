@@ -1,0 +1,106 @@
+/* .card{
+    width: 350px;
+    height: 500px;
+    border: 1px solid gray;
+    border-radius: 70px;
+    background-image: url(../css/Screenshot\ 2023-10-31\ at\ 20.51.05.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: 10px;
+}
+.USERNAME{
+    width: 60%;
+    height: 20px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    margin: 19px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+.PASSWORD{
+    width: 60%;
+    height: 20px;
+    background-color: white;
+    justify-content: center;
+    display: flex;
+    margin: 19px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+
+
+.button{
+    background-color: blue;
+} */
+
+h2{
+    text-align: center;
+}
+.SIGN IN{
+    margin-left: 200px;
+    border: 1px solid black;
+    width: 600px;
+    height: 300px;
+}
+
+.card2{
+    width: 350px;
+    height: 500px;
+    border: 1px solid blue;
+    background-color: blue;
+}
+.USERNAME{
+    width: 60%;
+    height: 20px;
+    background-color:BLUE;
+    justify-content: center;
+    display: flex;
+    margin: 19px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+
+.E-MAIL{
+    width: 60%;
+    height: 20px;
+    background-color:BLUE;
+    justify-content: center;
+    display: flex;
+    margin: 19px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+
+.PASSWORD{
+    width: 60%;
+    height: 20px;
+    background-color:BLUE;
+    justify-content: center;
+    display: flex;
+    margin: 19px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
+.CONFIRM-PASSWORD{
+    width: 60%;
+    height: 20px;
+    background-color:BLUE;
+    justify-content: center;
+    display: flex;
+    margin: 19px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 50px;
+}
